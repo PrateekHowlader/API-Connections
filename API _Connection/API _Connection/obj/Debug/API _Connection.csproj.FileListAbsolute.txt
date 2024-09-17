@@ -1,0 +1,23 @@
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\API _Connection.exe.config
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\API _Connection.exe
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\API _Connection.pdb
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Tekla.Structures.Catalogs.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Tekla.Structures.Dialog.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Tekla.Structures.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Tekla.Structures.Model.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Tekla.Structures.Datatype.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Tekla.Structures.Plugins.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Mono.Cecil.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Newtonsoft.Json.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Tekla.Technology.Scripting.dll
+D:\C#\c#\API _Connection\API _Connection\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API _Connection.csproj.AssemblyReference.cache
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API__Connection.Form1.resources
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API__Connection.Properties.Resources.resources
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API _Connection.csproj.GenerateResource.cache
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API _Connection.csproj.CoreCompileInputs.cache
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API _Con.521CB4CC.Up2Date
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API _Connection.exe
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API _Connection.pdb
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API__Connection.Form2.resources
+D:\C#\c#\API _Connection\API _Connection\obj\Debug\API__Connection.Form3.resources
